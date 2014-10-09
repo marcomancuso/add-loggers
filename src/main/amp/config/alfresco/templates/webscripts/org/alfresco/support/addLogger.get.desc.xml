@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Add Loggers</shortname>
+  <description>Add Loggers</description>
+  <url>/support/addLoggers</url>
+  <authentication>admin</authentication>
+  <transaction>none</transaction>
+  <format default="html">argument</format>
+  <family>AlfrescoSupport</family>
+</webscript>
